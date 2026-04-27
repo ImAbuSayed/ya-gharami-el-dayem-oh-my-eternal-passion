@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور حياتي وعمري الطويل
+> قلبي ينادي في صمت الليل
+> أنت الأمل في دربي الجميل
+> معك أرى الحب ماله مثيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
