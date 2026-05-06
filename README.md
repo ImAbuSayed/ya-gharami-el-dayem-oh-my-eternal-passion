@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-gharami-el-dayem-oh-my-eternal-passion/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Ya Gharami El Dayem – Oh My Eternal Passion](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
