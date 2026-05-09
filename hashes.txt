@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Gharami El Dayem – Oh My Eternal Passion
+
+This log tracks the cryptographic history and versioning for the song **Ya Gharami El Dayem – Oh My Eternal Passion** (ya-gharami-el-dayem-oh-my-eternal-passion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:06:22.218155 | `v1` | `d5e99dffca07b19e52261d6cf0e5dbd1decdd6e143d09076803db25606b9f58a` | `da88bda1e51718961be8688f31665dd9cdec0c72c9990a0fea055e68cb95afa1` | `2026-05-09_ya-gharami-el-dayem-oh-my-eternal-passion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
